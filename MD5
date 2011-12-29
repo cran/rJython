@@ -1,12 +1,13 @@
-79cb4388d9f2ca9e00f879930a01c5ba *DESCRIPTION
+bfd532a44391c95c0d8a38aaac3f121d *DESCRIPTION
 0aa15532c170a248e1d6a1f2592d47b6 *LICENSE
+baa74acfd0261e3905ddfa0425adbc8c *NAMESPACE
 68b329da9893e34099c7d8ad5cb9c940 *NEWS
 e25515c955f469c8fbb89b3142c1bc8a *R/jython.assign.R
 1b17e537d445f1b873fb837a74ab8c47 *R/jython.call.R
 103d14daf5628ee158438e0ff931478f *R/jython.exec.R
 350403729a7be798d15b0fb99e508e6d *R/jython.get.R
 dbf364986ccc85498b9ea828b0a4472a *R/jython.method.call.R
-7d00be370f44107b08b490e1b5ce5b31 *R/rJython.R
+1b8852ecaf36fffa5f7b2ac6bce0c945 *R/rJython.R
 e6d07698f8d83d8d1b6f5e91e01c0882 *inst/jython.jar
 06259d0f7b5d3bcec12e3fd9a2d83811 *inst/simplejson/__init__.py
 dc609618e6327abd7836972da0d0bed5 *inst/simplejson/decoder.py
